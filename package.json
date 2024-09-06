@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andreibatman/nodejs-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andreibatman/nodejs-learning/issues"
+  },
+  "homepage": "https://github.com/Andreibatman/nodejs-learning#readme",
+  "description": "",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "uuid": "^10.0.0"
+  }
+}
