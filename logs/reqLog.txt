@@ -3,3 +3,34 @@
 20240909	00:45:50	7621ada9-157a-4c0b-8fad-4b9512d59015	/css/style.css	GET
 20240909	00:45:50	8a4fffa1-77f1-4a84-8bba-509aed89a7d7	/favicon.ico	GET
 20240909	00:47:43	2408862a-1bee-4a7c-a581-996bfa8ff1a0	/new-page	GET
+20240909	23:44:56	e3a31829-bf6b-42e7-a193-8a9203a0cec2	GET	undefined	/
+20240909	23:44:56	0314b776-2345-491c-978b-8d8122b126d3	GET	undefined	/css/style.css
+20240909	23:46:28	2f799d1a-8a6c-46eb-ba8c-3e005906e364	GET	undefined	/
+20240909	23:46:28	2b50d862-ad30-4100-93e3-727c542c4f71	GET	undefined	/css/style.css
+20240909	23:55:01	b0c52526-f2e6-4420-a38e-dcb876851429	GET	undefined	/
+20240909	23:55:11	1bcc54c9-5f27-4081-8aaa-1e428d9b94d6	GET	undefined	/
+20240909	23:55:43	da4b8cbc-54de-4897-a7f7-ef8b94da8f02	GET	undefined	/
+20240909	23:55:43	faccfa69-cbe2-4a44-987c-9f756fb3a040	GET	undefined	/css/style.css
+20240909	23:56:28	047107b4-68b6-4a11-946b-5840b484370c	GET	undefined	/
+20240909	23:56:50	ca00b192-b40e-44da-8991-8c9cee22d93e	GET	undefined	/chain
+20240909	23:57:02	3364d56b-63c5-4b48-b993-2360c9881e7d	GET	undefined	/chain
+20240909	23:58:52	1af12650-7f04-4787-88fc-ddc70f43fb89	GET	undefined	/chain
+20240909	23:58:53	56e06a09-3e92-4352-b4de-2719a6700972	GET	undefined	/chain
+20240909	23:58:56	ece49432-8703-4aed-82c2-140dd7a45fe0	GET	undefined	/
+20240910	00:00:23	42858be4-52a7-490a-9cc5-8676cc5dcc94	GET	undefined	/
+20240910	00:00:23	6f8c0c6d-1848-4370-90ab-f126107e8f5e	GET	undefined	/css/style.css
+20240910	00:00:33	81dcc441-4d5b-4dca-8fea-1fa36c7f12bf	GET	undefined	/
+20240910	00:00:33	9c604289-8cfb-4007-9bc5-d917d84de2da	GET	undefined	/css/style.css
+20240910	00:03:55	226fafd3-7bfe-4ab0-b79c-e78f1f426f16	GET	undefined	/
+20240910	00:03:55	2cda0b99-b400-401d-81b9-5f6517d54981	GET	undefined	/css/style.css
+20240910	00:07:00	3a7bdfc9-8f23-4ec2-8e8e-3eeb80c21e2a	GET	undefined	/
+20240910	00:07:00	7e8ea0eb-3ea0-40ed-835d-773c2540575b	GET	undefined	/css/style.css
+20240910	00:07:14	67619efd-fc20-4b17-8c98-e51ffdea19c7	GET	undefined	/
+20240910	00:07:42	2b4d8da6-38fb-4eb3-bc3b-c9e5aa55267f	GET	undefined	/
+20240910	00:07:42	fec355f3-9523-4d83-a0ef-db67a6883bf2	GET	undefined	/css/style.css
+20240910	00:08:31	82aa6e8e-3b5d-4cd0-828a-b0664afda78d	GET	undefined	/
+20240910	00:08:31	d39e7fc1-d692-4296-91be-80190145eacd	GET	undefined	/css/style.css
+20240910	00:08:35	e5b3f04e-f57b-43e5-9449-6c0f2e52b609	GET	undefined	/dave
+20240910	00:08:35	fe29c2e4-34d3-43f4-b8f1-837af0d341a1	GET	undefined	/css/style.css
+20240910	00:10:29	cb693032-da49-42ed-aac3-244865814ea0	GET	undefined	/dave
+20240910	00:10:29	71ab8518-c44a-4ca5-9a62-3900d88f351f	GET	undefined	/css/style.css
