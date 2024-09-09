@@ -53,3 +53,7 @@
 20240910	01:56:43	4ecfb9c8-edb6-44f5-abb8-1dacfb89d8f2	GET	undefined	/css/style.css
 20240910	02:05:12	06fd4d14-8f02-41ef-a4c8-93fe6fff2cdc	GET	undefined	/employees
 20240910	02:06:24	e003fde9-9faa-412b-9538-153215f0b628	POST	undefined	/employees
+20240910	02:29:36	108b5936-40a8-46bf-9e47-88398a920071	GET	undefined	/employees
+20240910	02:29:38	b94fffa9-c111-44fc-939a-9a9c75df2ff6	GET	undefined	/employees
+20240910	02:29:42	3a8a8018-acfb-4c65-9df5-c87996610567	POST	undefined	/employees
+20240910	02:29:49	dc8156d2-c4a4-475b-b63d-9613b8472ac9	GET	undefined	/employees
