@@ -95,3 +95,7 @@
 20240910	18:54:54	45dc6bae-2dfb-4d75-8989-e2752d93b3aa	POST	undefined	/auth
 20240910	18:55:02	612204d7-0ff3-46c8-beb0-f7e83c2aeb6c	POST	undefined	/employees
 20240910	18:55:17	401633f6-051c-416d-9380-1380ed9a24ac	DELETE	undefined	/employees
+20240910	19:55:36	ba01e444-2378-4c46-bc13-2dae2fde19a6	POST	undefined	/register
+20240910	19:56:07	199f5f36-f006-482e-ba52-5c794cee99e7	POST	undefined	/register
+20240910	19:58:20	be1f45c5-239f-440a-8981-9e4e22f43dec	POST	undefined	/register
+20240910	20:01:00	850ef561-1412-4835-af96-7ea78b8bc6a6	POST	undefined	/register
